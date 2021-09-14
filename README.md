@@ -45,7 +45,7 @@ analyze your code.
 
 ## Installation
 
-To get started locally, follow these instructions:
+   To get started locally, follow these instructions:
 
 1. If you haven't done it already, [make a fork of this repo](https://github.com/angular/angular-cli/fork).
 1. Clone to your local computer using `git`.
